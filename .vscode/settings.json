@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {
+        "[Quiet Light]": {
+            "textLink.activeForeground": "#ffc0cb",
+            "editorCursor.foreground": "#ffc0cb",
+            "editorLink.activeForeground": "#ffc0cb",
+            "editor.focusedStackFrameHighlightBackground": "#0d0d0d",
+            "editorOverviewRuler.modifiedForeground": "#7cb0a1"
+        }
+    }
+}
