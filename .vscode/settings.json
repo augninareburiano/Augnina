@@ -7,5 +7,6 @@
             "editor.focusedStackFrameHighlightBackground": "#0d0d0d",
             "editorOverviewRuler.modifiedForeground": "#7cb0a1"
         }
-    }
+    },
+    "liveServer.settings.multiRootWorkspaceName": "Augnina"
 }
