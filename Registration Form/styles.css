@@ -42,7 +42,6 @@ select {
   margin: 10px 0 0 0;
   width: 100%;
   min-height: 2em;
-  
 }
 
 input, textarea {
@@ -55,8 +54,6 @@ input, textarea {
   width: unset;
   margin: 0 0.5em 0 0;
   vertical-align: middle;
-  font-family: #dfdfe2;
-  display: inline-block;
 }
 
 input[type="submit"] {
@@ -68,8 +65,8 @@ input[type="submit"] {
   background-color: #3b3b4f;
   border-color: white;
   min-width: 300px;
-  padding: 2em;
 }
+
 input[type="file"] {
   padding: 1px 2px;
 }
